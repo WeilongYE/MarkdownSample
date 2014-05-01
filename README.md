@@ -3,4 +3,4 @@ MarkdownSample
 
 Show  GitHub Flavored Markdown
 
-[HOME]()
+[HOME](https://github.com/WeilongYE/MarkdownSample/wiki)
